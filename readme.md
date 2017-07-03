@@ -6,19 +6,19 @@
 ## Dev
 
 ```
-$ npm install
+$ yarn install
 ```
 
 ### Run
 
 ```
-$ npm start
+$ yarn start
 ```
 
 ### Build
 
 ```
-$ npm run build
+$ yarn run build
 ```
 
 Builds the app for OS X, Linux, and Windows, using [electron-packager](https://github.com/maxogden/electron-packager).
@@ -26,4 +26,4 @@ Builds the app for OS X, Linux, and Windows, using [electron-packager](https://g
 
 ## License
 
-MIT © [<%= name %>](<%= website %>)
+MIT © kvasir (https://github.com/kvasir)
